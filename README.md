@@ -1,5 +1,5 @@
 # 👽Aliens Threat API
-- - - - 
+
 **As the aliens threat increases year after year, month after month, day after day.</br> Therefore, <br>Earth people have decided to identify all 👽 in order to prevent from an imminent attack.</br> To do so, a comitee of experts gathered to create a cutting edge Application Programming Interface( API) and give it to mankind for free.**
 
 ![Alt Text](https://media.giphy.com/media/4Lcm8ICoLLHuo/giphy.gif)
@@ -15,7 +15,6 @@
 ## Coded with 
  <img alt="GIF" src="https://media.giphy.com/media/TFiwrCyNQDFmID0QUA/giphy.gif" width="50" height="100"/>
 
-- - - - 
 
 ## Set up 
 </br>
@@ -27,6 +26,6 @@ To set up the project:
     ```npm install```
 - Create a .env folder based on .env.sample
 - Change env variables according to your environment
-- - - - 
+
 ## Let's Roll Baby !!!
 ![Alt Text](https://media.giphy.com/media/1nR9Amsb8ukSlSwWVq/giphy.gif)
