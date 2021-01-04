@@ -26,6 +26,12 @@ app.use(express.urlencoded({extended:true}))
  */
 require('./routes')(app);
 
+/* handle errors
+ */
+app.use((err, req, res, next)=>{
+  
+})
+
 /* listen application 
  */
 app.listen(DB_PORT, () => {
