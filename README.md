@@ -1,9 +1,25 @@
-# API creation wild code school quest
+# 👽Aliens Threat API
 - - - - 
+**As the aliens threat increases year after year, month after month, day after day.</br> Therefore, <br>Earth people have decided to identify all 👽 in order to prevent from an imminent attack.</br> To do so, a comitee of experts gathered to create a cutting edge Application Programming Interface( API) and give it to mankind for free.**
+
 ![Alt Text](https://media.giphy.com/media/4Lcm8ICoLLHuo/giphy.gif)
-**We will create an API for this quest** 
+</br>
+**_List of experts:_**
+
+| Name              | Field of Expertise    |
+| :-------------     |:-------------        |
+| [Rooarii MANUEL](https://github.com/Rooarii)      | Database        | 
+| [Rooarii MANUEL](https://github.com/Rooarii)           | Back End              |
+| [Rooarii MANUEL](https://github.com/Rooarii)      |    Aliens Knowledge         |
+ 
+## Coded with 
+ <img alt="GIF" src="https://media.giphy.com/media/TFiwrCyNQDFmID0QUA/giphy.gif" width="50" height="100"/>
+
 - - - - 
-#Set up 
+
+## Set up 
+</br>
+
 ![Alt Text](https://media.giphy.com/media/j3tMWkr0AG8EPnzGi1/giphy.gif)
 
 To set up the project:
