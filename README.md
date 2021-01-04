@@ -6,18 +6,18 @@
 
 **_List of experts:_**
 
-| Name              | Field of Expertise    |
-| :-------------     |:-------------        |
-| [Rooarii MANUEL](https://github.com/Rooarii)      | Database        | 
-| [Rooarii MANUEL](https://github.com/Rooarii)           | Back End              |
-| [Rooarii MANUEL](https://github.com/Rooarii)      |    Aliens Knowledge         |
+|                     Name                      | Field of Expertise    |
+| :-------------------------------------------- |:----------------------|
+| [Rooarii MANUEL](https://github.com/Rooarii)  | Database              | 
+| [Rooarii MANUEL](https://github.com/Rooarii)  | Back End              |
+| [Rooarii MANUEL](https://github.com/Rooarii)  | Aliens Knowledge      |
 
  <img align="center" alt="GIF" src="https://media.giphy.com/media/TFiwrCyNQDFmID0QUA/giphy.gif" width="30%">**Coded**</img>
 
 ## Set up 
 
 To set up the project:
-- Run below command in your CLI
+- Run below command in your CLI<br>
     ```npm install```
 - Create a .env folder based on .env.sample
 - Change env variables according to your environment
