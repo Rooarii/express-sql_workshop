@@ -2,9 +2,9 @@
   "name": "express-sql_workshop",
   "version": "1.0.0",
   "description": "This is an wild code school quest in which we create an API based on express and MySQL",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "start": "nodemon index.js",
+    "start": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,10 +19,12 @@
   "homepage": "https://github.com/Rooarii/express-sql_workshop#readme",
   "devDependencies": {
     "dotenv": "^8.2.0",
+    "eslint": "^7.17.0",
     "nodemon": "^2.0.6"
   },
   "dependencies": {
     "cors": "^2.8.5",
+    "db-migrate-mysql": "^2.1.2",
     "express": "^4.17.1",
     "mysql2": "^2.2.5"
   }
