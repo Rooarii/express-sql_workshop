@@ -28,9 +28,11 @@ require('./routes')(app);
 
 /* handle errors
  */
-app.use((err, req, res, next)=>{
-  
-})
+app.use(
+  (err, req, res, next)=>{
+    
+  }
+)
 
 /* listen application 
  */
